@@ -1,1 +1,4 @@
-"# PyDuino" 
+Golgi
+
+Dependencies:
+- PySerial
