@@ -1,4 +1,5 @@
-import PySerial
+import serial
+from time import sleep
 
 to = 5
 bytecount = 32
